@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Alice Souza
+- 👀 I’m interested in Front-End
+- 🌱 I’m currently learning HTML 5, CSS3, JS ES
+- 💞️ I’m looking to collaborate on small and easy projects
+- 📫 How to reach me > alicecandida60@gmail.com < 
